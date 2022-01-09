@@ -27,7 +27,7 @@ That being said when we analyse the mean/average data temperatures from June and
 
 ![December Temps](https://user-images.githubusercontent.com/92459399/148699784-b9f8a32e-2c53-445f-af2d-a38db44d79e6.PNG)
 
-We created a seperate query to monitor the most active stations in June and December to further monitor the weather results and we came up with the following results shown in the charts below. 
+We created a seperate query to monitor the most active stations in June and December to further monitor the weather results and we came up with the following results shown in the charts below. As we can see the Charts created from the new sessions **results_jun_summ** and **results_dec_sum** coincide with the the results that we discussed in the june temperature above with very little variation in the data. We also see that the data is not skewed one way or the other in both months.
 
 **June Most Active Stations**
 
@@ -37,3 +37,6 @@ We created a seperate query to monitor the most active stations in June and Dece
 
 ![Temps for December most active Stations](https://user-images.githubusercontent.com/92459399/148700172-ed307cac-f28d-4110-bc74-f58ba39d6957.PNG)
 
+## Summary
+
+In summary the weather during the months of June and December follow a symmetrical temperature patern which has very little fluctuation in the minimum and maximum temperatures between the 2 months. Taking into consideration that these months are 6 months apart and the lack of fluctuation in the temperature we can summarize that W. Avy would be making a good investment if investing into the Surf N' Shake Shop.
